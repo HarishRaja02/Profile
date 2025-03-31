@@ -1,3 +1,6 @@
+# Profile Webpage with Light Mode
+![Screenshot 2025-03-31 122144](https://github.com/user-attachments/assets/097145a2-0061-4e7c-9d81-65fa1fe6cb27)
+
 # Profile Webpage with Dark Mode
 ![Screenshot 2025-03-31 122154](https://github.com/user-attachments/assets/6d26814c-7335-4378-be8d-e8d3bca5c838)
 
